@@ -1,0 +1,82 @@
+.kart{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 800px;
+    height: 400px;
+
+}
+body{
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: black;
+}
+.ura{
+    right: 300px;
+    position: absolute;
+    color: aqua;
+}
+.mi{
+    position:relative ;
+    text-align: center;
+    top: 10x;
+    color: rgb(0, 0, 0);
+    background-color: cyan;
+}
+.igra{
+    position: absolute;
+    top: 450px;
+    background-color: cyan;
+}
+.tor{
+    width: 200px;
+    position: absolute;
+    top: 600px;
+}
+.top{
+    width: 200px;
+    position:absolute;
+    top: 600px;
+    left: 300px;
+}
+.tui{
+    position: absolute;
+    top: 700px;
+    background-color: chartreuse;
+}
+.ty{
+    position: absolute;
+    top: 700px;
+    left: 300px;
+    background-color:chartreuse ;
+}
+.re{
+    position: absolute;
+    width: 200px;
+    top:600px;
+    left: 600px;
+}
+.mo{
+    position: absolute;
+    top: 700px;
+    background-color: chartreuse;
+    left: 600px;
+}
+.ot{
+    position: absolute;
+    top: 720px;
+    right:300px;
+    color: darkgoldenrod;
+}
+.otziv{
+    position: absolute;
+    top: 760px;
+    background-color: blueviolet;
+}
+.pyui{
+    position: absolute;
+    top: 860px;
+    background-color: blueviolet;
+}
+    
+    
